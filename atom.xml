@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-29T08:13:10.924Z</updated>
+  <updated>2017-12-29T08:52:45.426Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,30 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>这是第一篇文章</title>
+    <link href="http://yoursite.com/2017/12/29/%E8%BF%99%E6%98%AF%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
+    <id>http://yoursite.com/2017/12/29/这是第一篇文章/</id>
+    <published>2017-12-29T08:49:07.000Z</published>
+    <updated>2017-12-29T08:52:45.426Z</updated>
+    
+    <content type="html"><![CDATA[<p>这里是保存一些常用命令：<br>第一：hexo new “这里是你要写的文章标题”<br>第二：hexo g   生成本地静态的网页<br>第三：hexo d   发布到配置好的github帐号上去了</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;这里是保存一些常用命令：&lt;br&gt;第一：hexo new “这里是你要写的文章标题”&lt;br&gt;第二：hexo g   生成本地静态的网页&lt;br&gt;第三：hexo d   发布到配置好的github帐号上去了&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+      <category term="技术类" scheme="http://yoursite.com/tags/%E6%8A%80%E6%9C%AF%E7%B1%BB/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
